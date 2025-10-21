@@ -161,7 +161,7 @@ github.com/fumiama/go-docx/pack.go:44.8,45.35 1 0
 github.com/fumiama/go-docx/pack.go:45.35,47.18 2 0
 github.com/fumiama/go-docx/pack.go:47.18,49.5 1 0
 github.com/fumiama/go-docx/pack.go:53.2,56.28 3 1
-github.com/fumiama/go-docx/pack.go:56.28,58.3 1 0
+github.com/fumiama/go-docx/pack.go:56.28,58.3 1 1
 github.com/fumiama/go-docx/pack.go:60.2,60.29 1 1
 github.com/fumiama/go-docx/pack.go:60.29,62.17 2 1
 github.com/fumiama/go-docx/pack.go:62.17,64.4 1 0
@@ -1920,9 +1920,9 @@ github.com/fumiama/go-docx/unpack.go:54.36,56.18 2 1
 github.com/fumiama/go-docx/unpack.go:56.18,58.5 1 0
 github.com/fumiama/go-docx/unpack.go:59.4,59.12 1 1
 github.com/fumiama/go-docx/unpack.go:61.3,61.46 1 1
-github.com/fumiama/go-docx/unpack.go:61.46,63.18 2 0
+github.com/fumiama/go-docx/unpack.go:61.46,63.18 2 1
 github.com/fumiama/go-docx/unpack.go:63.18,65.5 1 0
-github.com/fumiama/go-docx/unpack.go:66.4,66.12 1 0
+github.com/fumiama/go-docx/unpack.go:66.4,66.12 1 1
 github.com/fumiama/go-docx/unpack.go:69.3,69.48 1 1
 github.com/fumiama/go-docx/unpack.go:72.2,73.8 2 1
 github.com/fumiama/go-docx/unpack.go:77.52,79.16 2 1
@@ -1940,8 +1940,8 @@ github.com/fumiama/go-docx/unpack.go:122.17,124.4 1 0
 github.com/fumiama/go-docx/unpack.go:125.3,125.26 1 1
 github.com/fumiama/go-docx/unpack.go:125.26,127.4 1 1
 github.com/fumiama/go-docx/unpack.go:129.2,129.12 1 1
-github.com/fumiama/go-docx/unpack.go:133.49,136.16 3 0
+github.com/fumiama/go-docx/unpack.go:133.49,136.16 3 1
 github.com/fumiama/go-docx/unpack.go:136.16,138.3 1 0
-github.com/fumiama/go-docx/unpack.go:139.2,140.16 2 0
+github.com/fumiama/go-docx/unpack.go:139.2,140.16 2 1
 github.com/fumiama/go-docx/unpack.go:140.16,142.3 1 0
-github.com/fumiama/go-docx/unpack.go:143.2,145.19 3 0
+github.com/fumiama/go-docx/unpack.go:143.2,145.19 3 1
